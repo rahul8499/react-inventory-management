@@ -1,0 +1,48 @@
+
+.Categeroy{
+    color:red;
+    font-size: 1.2vw;
+}
+h1{
+    font-size: 2vw;
+}
+.reportPageBody{
+    background-color: white;
+    border-radius: 10px ;
+    height: 60vh;
+     
+}
+
+.pageContent{
+    margin-left: 1vw ;
+    padding-top:2vw ;
+    font-size: 1vw;
+
+
+ 
+}
+
+
+.salesbox{
+            border-radius: 10px;
+            font-size: 1vw;
+            /* margin-top: 0vw; */
+            padding-left: 2vw;
+}
+
+.section1{
+    display: flex;
+    margin-top: 3vh;
+}
+.section2{
+    margin-top: 4vh;
+}
+.linkItems{
+  color: rgb(82, 82, 237);
+    display: block;
+    padding-top: 1vh;
+    
+}
+
+
+

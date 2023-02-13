@@ -1,0 +1,119 @@
+
+.OrderpageContent {
+    /* margin-left: 1vw; */
+    padding-top: 2vw;
+    margin-top: 1vw;
+    padding-left: 2vw;
+    border-radius: 10px;
+    font-size: 1vw;
+    background-color: white;
+    height: 44vh;
+    
+  
+  
+}
+
+.item1{
+    background-color: white;
+    border-radius: 10px;
+    font-size: 1vw;
+    height: 35vh;
+    padding-top: 2vw;
+        padding-left: 2vw;
+}
+.item3 {
+    background-color: white;
+    border-radius: 10px;
+    font-size: 1vw;
+    height: 23vh;
+    padding-top: 2vw;
+    padding-left: 2vw;
+}
+.item2{
+      background-color: white;
+    border-radius: 10px;
+    font-size: 1vw;
+    height: 35vh;
+    padding-top: 2vw;
+        padding-left: 2vw;
+}
+.item4 {
+    background-color: white;
+    border-radius: 10px;
+    font-size: 1vw;
+    height: 23vh;
+    padding-top: 2vw;
+    padding-left: 2vw;
+}
+
+
+.item5 {
+    background-color: white;
+    border-radius: 10px;
+    font-size: 1vw;
+    height: 18vh;
+    padding-top: 2vw;
+    padding-left: 2vw;
+}
+.item6 {
+    background-color: white;
+    border-radius: 10px;
+    font-size: 1vw;
+   
+    padding-top: 2vw;
+    padding-left: 2vw;
+}
+.save{
+    background-color: orangered;
+    /* background-color: rgb(234, 56, 56); */
+    color: white;
+    font-weight: bold;
+    /* height: 2vw;
+    width: 4vw; */
+}
+.item7 {
+    background-color: white;
+    border-radius: 10px;
+    font-size: 1vw;
+
+    padding-top: 1vw;
+    padding-left: 2vw;
+    padding-bottom: 2vw;
+}
+h3 {
+    font-size: 1.2vw;
+}
+h1 {
+    font-size: 2vw;
+}
+.div1 {
+    display: flex;
+    margin-top: 3vh;
+}
+.div2 {
+    display: flex;
+    margin-top: 3vh;
+}
+/* .section2 {
+    margin-top: 4vh;
+} */
+
+
+.searchDropdown {
+    margin-top: 27px;
+    margin-left: 1vw;
+}
+.searchDropdown {
+    margin-top: 27px;
+    margin-left: 1vw;
+}
+.DatePickerSize{
+    height: 36px;   
+    width: 10vw;
+}
+.AllDropDownSize{
+    width: 13vw;
+}
+.UnitDrpdown{
+    width: 5vw;
+}

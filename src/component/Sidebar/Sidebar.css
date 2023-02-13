@@ -1,0 +1,33 @@
+.tagHover:hover{
+    background-color:rgb(243, 213, 218);
+    color: red;
+}
+
+ .inactive{
+  color: rgb(16, 15, 15);
+
+}
+ .active {
+     color: rgb(236, 23, 23);
+
+ }
+
+.tagHover{
+    font-size: 1.2vw;
+        display: flex;
+        text-decoration: none;
+        gap: 1vw;
+        padding: 20px;
+        cursor: pointer;
+    }
+
+.container{
+    margin-top: 20px;
+    /* padding-left: 1vw; */
+    margin-left: 0.5vw;
+}
+
+.toggleButton{
+    text-align: center;
+    cursor: pointer;
+}

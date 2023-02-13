@@ -1,0 +1,57 @@
+nav ul {
+       margin-bottom: 0px;
+       height: 80px;
+       align-items: center;
+       list-style: none;    
+}
+
+
+
+.CompanyName{
+    color:rgb(231, 77, 21);
+   font-size: 2vw;
+    /* word-spacing: -8px; */
+    
+}
+.CompanyName span{
+        color: rgb(5, 11, 49);
+        font-weight: normal;
+}
+
+
+.GobackIcon a{
+    font-size: 1vw;
+    color:rgb(231, 77, 21);
+    text-decoration: none;
+}
+.dateTime{
+    width: 6vw;
+    text-align: center;
+    font-size: 1vw;
+}
+
+
+.userName{
+    font-weight: normal;
+   font-size: 0.9vw;
+     margin-left: 2vw;
+}
+.userName li{
+    font-weight: bold;
+}
+
+.notificationIcon{
+    font-size: 1.7vw;
+}
+
+.notificationIcon span {
+  background-color: rgb(231, 77, 21);
+    font-size: 0.5vw;
+        margin-top: 7px;
+        margin-left: -0.8vw;
+}
+
+.navbarimage{
+    height: 6vh;
+    width: 4vw;
+}

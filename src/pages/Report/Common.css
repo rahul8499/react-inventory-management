@@ -1,0 +1,36 @@
+.DateRange {
+    margin-top: 27px;
+}
+
+.pagename {
+    padding-top: 3vh;
+}
+
+.searchDropdown {
+    margin-top: 27px;
+    margin-left: 1vw;
+}
+.categorySection h5{
+    margin-top: 27px;
+    font-size: 1vw;
+}
+
+.searchDropdown h5 {
+    font-size: 1vw;
+}
+
+.pdfDownloadIcon {
+    background-color: rgb(237, 121, 79);
+    color: white;
+    border: none;
+    /* margin-top: 50px; */
+    width: 90px;
+    /* width: 4vw; */
+    height: 30px;
+    font-size: 14px;
+    border-radius: 4px;
+    margin-top: 22px;
+    /* width: 15vw; */
+
+
+}
